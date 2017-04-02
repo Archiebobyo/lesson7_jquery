@@ -1,0 +1,1 @@
+For my extra credit I made a Chocolate Chocolate Chip Cookie page. I made the h3 tag highlight blue when hovered over and turn brown when hovered off it. I also made it so while hovering over the header tag the text under appear beanth it through a animation.
