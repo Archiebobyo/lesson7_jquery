@@ -13,8 +13,7 @@ LIS 2360:  Web Application Development
 We learned some key functions of jQuery.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://archiebobyo.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
 1. We learned how to use DOM traversal
